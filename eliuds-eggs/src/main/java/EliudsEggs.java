@@ -1,4 +1,4 @@
-public class PopCount {
+public class EliudsEggs {
     public int eggCount(int number) {
         if (number != 0){
             int count = 0;
